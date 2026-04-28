@@ -1,0 +1,5 @@
+{
+  "name": "degenbot",
+  "version": "1.0.0",
+  "scripts": { "start": "node index.js" },
+  "dependencies": { "node-telegram-bot-api": "^0.64.0" }
