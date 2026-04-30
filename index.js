@@ -17,7 +17,7 @@ const TOKEN          = process.env.TELEGRAM_BOT_TOKEN;
 const DATABASE_URL   = process.env.DATABASE_URL;
 const PORT           = Number(process.env.PORT) || 3000;
 const ADMIN_ID       = 1825536257;
-const APP_URL        = 'https://degen100solbutton.netlify.app';
+const APP_URL        = 'https://degenduckofficial-coder.github.io/degen-button';
 const GROUP          = 'https://t.me/xDegenDuck';
 const X_URL          = 'https://x.com/xdegenduck?s=21';
 const BROADCAST_CHAT = '@xDegenDuck';
